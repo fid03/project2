@@ -1,0 +1,256 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+    width: 100%;
+}
+.main-info{
+position: absolute;
+width:100%;
+height:780px;
+left: -1px;
+top: 5405px;
+background: #9DC9C8;
+}
+.main-info h2{
+position: absolute;
+width: 908px;
+height: 66px;
+left: 121px;
+top: 5584px;
+margin-top:-5405px ;
+
+font-family: 'Roboto Slab', serif;
+font-style: normal;
+font-weight: 700;
+font-size: 55px;
+line-height: 101.38%;
+/* or 56px */
+color: #000000;
+
+}
+.name{
+position: absolute;
+width: 170px;
+height: 32px;
+left: 121px;
+top: 5704px;
+margin-top:-5405px;
+
+font-family: 'Roboto',sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 101.38%;
+color: #000000;
+
+}
+
+.price{
+position: absolute;
+width: 481px;
+height: 181px;
+left: 121px;
+top: 5734px;
+margin-top:-5405px;
+
+font-family: 'Roboto',sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+line-height: 101.38%;
+color: #000000;
+}
+.one{
+position: absolute;
+width: 294px;
+height: 32px;
+left: 121px;
+top: 5889px;
+margin-top:-5405px;
+
+font-family: 'Roboto',sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 101.38%;
+color: #000000;
+}
+.p1{
+position: absolute;
+width: 294px;
+height: 70px;
+left: 121px;
+top: 5930px;
+margin-top:-5405px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 101.38%;
+color: #000000;
+
+}
+.two{
+position: absolute;
+width: 322px;
+height: 32px;
+left: 485px;
+top: 5889px;
+margin-top:-5405px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 101.38%;
+color: #000000;
+}
+.p2{
+    position: absolute;
+width: 294px;
+height: 70px;
+left: 485px;
+top: 5930px;
+margin-top:-5405px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 101.38%;
+color: #000000;
+}
+
+
+footer{
+position: absolute;
+width:100%;
+height:390px;
+left: -1px;
+top:6185px;
+background: #000000;
+}
+
+.logo{
+position: absolute;
+width: 115px;
+height: 68px;
+left: 121px;
+top: 6235px;
+margin-top:-6185px;
+}
+
+.social li{
+list-style-type: none;
+margin-top: -6185px;
+}
+
+#instagram{
+    position: absolute;
+width: 34px;
+height: 34px;
+left: 285px;
+top: 6332px;
+}
+
+#facebook{
+    position: absolute;
+width: 32px;
+height: 32px;
+left: 172px;
+top: 6333px;
+}
+
+#vk{
+position: absolute;
+width: 33px;
+height: 33px;
+left: 121px;
+top: 6333px;
+}
+
+#viber{
+    position: absolute;
+width: 35px;
+height: 35px;
+left: 225px;
+top: 6331px;
+}
+
+.contact li{
+    list-style-type: none;
+    margin-top: -6185px;
+}
+
+#phone_p{
+ position: absolute;
+width: 27px;
+height: 27px;
+left: 975px;
+top: 6239px;
+margin-top: -6185px;
+}
+#phone_n{
+position: absolute;
+width: 230px;
+height: 40px;
+left: 1024px;
+top: 6244px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 101.38%;
+color:#FFF;
+margin-top: -6185px;
+}
+
+#mail_p{
+position: absolute;
+width: 27px;
+height: 18px;
+left: 975px;
+top: 6291px;
+margin-top: -6185px;
+}
+
+#mail{
+    position: absolute;
+width: 269px;
+height: 40px;
+left: 1024px;
+top: 6287px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 101.38%;
+/* or 25px */
+
+
+color: #FFFFFF;
+margin-top: -6185px;
+
+}
+
+.date{
+ position: absolute;
+width: 230px;
+height: 40px;
+left: 121px;
+top: 6512px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 101.38%;
+/* or 18px */
+
+
+color: #FFFFFF;
+margin-top: -6185px;
+}
