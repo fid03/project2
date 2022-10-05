@@ -24,11 +24,10 @@ font-style: normal;
 font-weight: 700;
 font-size: 55px;
 line-height: 101.38%;
-/* or 56px */
 color: #000000;
 
 }
-.name{
+.main-info .name{
 position: absolute;
 width: 170px;
 height: 32px;
@@ -45,7 +44,7 @@ color: #000000;
 
 }
 
-.price{
+.main-info .price{
 position: absolute;
 width: 481px;
 height: 181px;
@@ -60,7 +59,7 @@ font-size: 80px;
 line-height: 101.38%;
 color: #000000;
 }
-.one{
+.main-info .one{
 position: absolute;
 width: 294px;
 height: 32px;
@@ -75,7 +74,7 @@ font-size: 25px;
 line-height: 101.38%;
 color: #000000;
 }
-.p1{
+.main-info .p1{
 position: absolute;
 width: 294px;
 height: 70px;
@@ -91,7 +90,7 @@ line-height: 101.38%;
 color: #000000;
 
 }
-.two{
+.main-info .two{
 position: absolute;
 width: 322px;
 height: 32px;
@@ -106,8 +105,8 @@ font-size: 25px;
 line-height: 101.38%;
 color: #000000;
 }
-.p2{
-    position: absolute;
+.main-info .p2{
+ position: absolute;
 width: 294px;
 height: 70px;
 left: 485px;
@@ -132,7 +131,7 @@ top:6185px;
 background: #000000;
 }
 
-.logo{
+.footer .logo{
 position: absolute;
 width: 115px;
 height: 68px;
@@ -141,12 +140,12 @@ top: 6235px;
 margin-top:-6185px;
 }
 
-.social li{
+.footer .social li{
 list-style-type: none;
 margin-top: -6185px;
 }
 
-#instagram{
+footer #instagram{
     position: absolute;
 width: 34px;
 height: 34px;
@@ -154,7 +153,7 @@ left: 285px;
 top: 6332px;
 }
 
-#facebook{
+footer #facebook{
     position: absolute;
 width: 32px;
 height: 32px;
@@ -162,7 +161,7 @@ left: 172px;
 top: 6333px;
 }
 
-#vk{
+footer #vk{
 position: absolute;
 width: 33px;
 height: 33px;
@@ -170,7 +169,7 @@ left: 121px;
 top: 6333px;
 }
 
-#viber{
+footer #viber{
     position: absolute;
 width: 35px;
 height: 35px;
@@ -178,12 +177,12 @@ left: 225px;
 top: 6331px;
 }
 
-.contact li{
+ footer .contact li{
     list-style-type: none;
     margin-top: -6185px;
 }
 
-#phone_p{
+ footer #phone_p{
  position: absolute;
 width: 27px;
 height: 27px;
@@ -191,7 +190,7 @@ left: 975px;
 top: 6239px;
 margin-top: -6185px;
 }
-#phone_n{
+ footer #phone_n{
 position: absolute;
 width: 230px;
 height: 40px;
@@ -207,7 +206,7 @@ color:#FFF;
 margin-top: -6185px;
 }
 
-#mail_p{
+ footer #mail_p{
 position: absolute;
 width: 27px;
 height: 18px;
@@ -216,7 +215,7 @@ top: 6291px;
 margin-top: -6185px;
 }
 
-#mail{
+ footer #mail{
     position: absolute;
 width: 269px;
 height: 40px;
@@ -228,15 +227,13 @@ font-style: normal;
 font-weight: 400;
 font-size: 25px;
 line-height: 101.38%;
-/* or 25px */
-
 
 color: #FFFFFF;
 margin-top: -6185px;
 
 }
 
-.date{
+ footer .date{
  position: absolute;
 width: 230px;
 height: 40px;
@@ -248,9 +245,6 @@ font-style: normal;
 font-weight: 400;
 font-size: 18px;
 line-height: 101.38%;
-/* or 18px */
-
-
 color: #FFFFFF;
 margin-top: -6185px;
 }
